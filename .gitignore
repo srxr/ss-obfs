@@ -1,0 +1,5 @@
+*
+!.gitignore
+!Shadowsocks.exe
+!obfs-local.exe
+!msys-2.0.dll
